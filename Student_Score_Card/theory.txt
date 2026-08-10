@@ -1,0 +1,7 @@
+for student i want :
+student details,
+student marks,
+pass or fail,
+report card
+
+student > ai assist > MCP tool

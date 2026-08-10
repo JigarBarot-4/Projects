@@ -1,0 +1,17 @@
+Tops school of data science
+
+report card
+
+Student ID : student3
+Student Name : Michael Johnson
+Student Class : 11
+
+marks : 78
+
+Result : PASS
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Tops school of data science
+
+report card
+
+Student ID : student5
+Student Name : William Brown
+Student Class : 12
+
+marks : 88
+
+Result : PASS
+
+
+
+
+

@@ -1,0 +1,13 @@
+Tops school of data science
+
+report card
+
+Student ID : student1
+Student Name : John Doe
+Student Class : 10
+
+marks : 85
+
+Result : PASS
+
+

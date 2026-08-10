@@ -1,0 +1,17 @@
+Tops school of data science
+
+report card
+
+Student ID : student2
+Student Name : Jane Smith
+Student Class : 9
+
+marks : 92
+
+Result : PASS
+
+
+
+
+
+
